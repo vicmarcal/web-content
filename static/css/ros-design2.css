@@ -1,0 +1,12 @@
+a.btn.btn-lead{
+	background-color: #ffb016;
+	color: #ffffffcc;
+	border-radius: 2em;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 14px 20px;
+    text-transform: none;
+}
+a.btn-lead:hover{
+	color: #ffffff;
+}
